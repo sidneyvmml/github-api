@@ -1,0 +1,16 @@
+.home-content {
+    padding-left: 41px;
+    margin-bottom: 0;
+    height: 50px;
+}
+
+.home-content h1{
+    font-size: 48px;
+}
+.home-content-text {    
+    padding-left: 41px;
+    height: 40px;
+}
+.home-content-text h3 {
+  color: #7e7e7e;
+}
