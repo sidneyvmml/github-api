@@ -1,15 +1,14 @@
-
-import MainPage from "./Pages/MainPage";
+import './assets/styles/custom.scss';
+import './App.css';
+import Routes from './Routes';
 
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <MainPage />
-      </header>
-    </div>
+  return (        
+     <Routes />
   );
 }
 
 export default App;
+
+

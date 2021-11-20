@@ -1,0 +1,54 @@
+.response-card {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  background-color: #f5f5f5;
+  padding: 40px 40px 40px 41px;
+  height: 334px;
+  width: 1251px;
+  margin-top: 40px;
+  margin-left: 90px;
+  border-radius: 15px;
+}
+
+.user-photo {
+  display: flex;
+  height: 247px;
+  width: 247px;
+  background-color: #fff;
+}
+
+.user-data {
+  display: flex;
+  flex-direction: column;
+  display: flex;
+  height: 247px;
+  width: 902px;
+  background-color: #ffffff;
+  margin-left: 15px;
+  border-color: #d9d9d9;
+  border-radius: 6px;
+}
+
+.user-data-title {
+  color: #1890ff;
+  padding: 8px 15px 0px 14px;
+  width: 534px;
+  height: 28px;
+  left: 14px;
+  top: 8px;
+  font-weight: bold;
+  margin-bottom: 19px;
+}
+
+.user-data-information {
+  font-size: 16px;
+  width: 872px;
+  padding: 8px 60px 8px 10px;
+  border: 1px solid #d9d9d9;
+  border-color: #d9d9d9;
+  box-sizing: border-box;
+  border-radius: 4px;
+  margin-left: 14px;
+  margin-bottom: 4px;
+}
