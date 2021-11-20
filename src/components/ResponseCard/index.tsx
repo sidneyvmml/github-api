@@ -1,5 +1,5 @@
 import './styles.css';
-import UserImage from '../../assets/images/user.jpg';
+
 
 type Props = {
   login: string;

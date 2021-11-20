@@ -22,7 +22,6 @@ type GithubUser = {
 const MainPage = () => {
 
   const [githubUser, setGithubUser] = useState<GithubUser>();
-
   
 
   const [formData, setFormData] = useState<FormData>({
